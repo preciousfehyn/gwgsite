@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:200,300,400,700);
+
+.bg-indigo {
+    background-color:#36AE7C;
+}
+
+.text-indigo {
+    color: #36AE7C;
+}
+
+.border-indigo {
+    border-color: #36AE7C;
+}
+body {
+    font-family: 'Poppins', Arial, sans-serif;
+    padding-top: 55px;
+}
+
+.rounded-circle{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 1;
+    position: absolute;
+    top: auto;
+    transform: translate(-50%, -1%);
+    left: 50%;
+    width: 50%;
+    height: 40%;
